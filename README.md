@@ -21,8 +21,6 @@ Glitch: <https://glitch.com/~hangman-server>
 
 Please note that this is only for demonstration purposes for the public and is not fit for production level
 
-It's my sincere requests not to hack or cheat in the game to maintain health gaming environment ;-)
+It's my sincere requests not to hack or cheat in the game to maintain a healthy gaming environment ;-)
 
 Please raise an issue as the program hasn't been tested enough
-
-For queries, mail me: samarthpai9870@gmail.com
